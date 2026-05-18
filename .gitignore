@@ -1,6 +1,7 @@
 # Credenciales y configuración privada
 .env
 CLAUDE.md
+PLAN.md
 
 # Base de datos generada
 app/database/banorte.db
