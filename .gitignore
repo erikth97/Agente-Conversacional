@@ -1,0 +1,33 @@
+# Credenciales y configuración privada
+.env
+CLAUDE.md
+
+# Base de datos generada
+app/database/banorte.db
+banorte.db
+
+# Vector store generado
+chroma_db/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+.env/
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
