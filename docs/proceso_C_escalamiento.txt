@@ -1,0 +1,79 @@
+POLÍTICA OPERATIVA INTERNA — ESCALAMIENTO DE INCIDENCIAS OPERATIVAS
+Código de Proceso: C | Versión: 1.0 | Fecha de vigencia: Enero 2026
+Dirección responsable: Mesa de Control Interno
+
+
+OBJETIVO
+
+El presente documento establece el proceso institucional para el escalamiento ordenado de incidencias operativas que no pueden resolverse en el nivel de atención inicial dentro de Grupo Financiero Banorte. El proceso garantiza que cada incidencia sea atendida por el nivel jerárquico con la autoridad y los recursos necesarios para resolverla en el menor tiempo posible, minimizando el impacto en los clientes y en la operación del banco. El escalamiento es un mecanismo de control interno que asegura visibilidad gerencial sobre situaciones que superan la capacidad de resolución del nivel operativo, y establece responsabilidades claras en cada nivel de intervención.
+
+
+ALCANCE
+
+Este proceso aplica a todas las incidencias operativas que surjan en cualquier área, sucursal, canal digital, sistema tecnológico o proceso crítico de Banorte y que requieran la intervención de un nivel jerárquico superior al que detectó la situación. Abarca incidencias relacionadas con fallas en el core bancario, caída de canales de atención (cajeros automáticos, banca en línea, aplicación móvil, terminales punto de venta), errores masivos en procesamiento de operaciones, situaciones de riesgo operativo con impacto en múltiples clientes, y conflictos operativos entre áreas internas que no se resuelven en el nivel ejecutivo. No aplica a quejas individuales de clientes (que se rigen por el Proceso E), ni a incidentes de seguridad de la información (que tienen su propio proceso de respuesta a incidentes de ciberseguridad).
+
+
+MARCO NORMATIVO
+
+La Circular Única de Bancos emitida por la CNBV establece en su apartado de gestión de riesgos operativos la obligación de las instituciones de crédito de contar con procedimientos documentados de escalamiento y respuesta a incidencias. Las Disposiciones de Carácter General aplicables a las Instituciones de Crédito en materia de control interno requieren que toda incidencia con impacto material sea notificada a la alta dirección en un plazo no mayor a cuatro horas desde su detección. La Ley de Instituciones de Crédito en su artículo 65 establece la responsabilidad de los administradores de la institución de mantener sistemas de control que permitan detectar y atender oportunamente situaciones de riesgo operativo. Adicionalmente, los Lineamientos de Gestión de Continuidad de Negocio de Banorte definen los umbrales de criticidad que activan cada nivel de escalamiento.
+
+
+DEFINICIONES
+
+Incidencia operativa: evento no planificado que interrumpe, degrada o amenaza la continuidad de un proceso, sistema o servicio de la institución, con potencial impacto en clientes, áreas internas o en el cumplimiento regulatorio.
+
+Nivel de escalamiento: estrato jerárquico con autoridad y recursos específicos para intervenir en la resolución de una incidencia, determinado por la complejidad, el impacto y el tiempo transcurrido sin resolución.
+
+Tiempo de respuesta: período máximo desde que se recibe el escalamiento hasta que el nivel receptor confirma su intervención activa en el caso.
+
+Tiempo de resolución: período máximo desde el inicio del escalamiento hasta que la incidencia queda cerrada y los servicios afectados se restablecen a su condición normal.
+
+SLA de escalamiento: compromiso de nivel de servicio establecido para cada nivel jerárquico, medido en horas desde la recepción del escalamiento.
+
+Plantilla de escalamiento: documento estandarizado que debe acompañar toda solicitud de escalamiento, con los campos mínimos de información necesarios para que el nivel receptor actúe sin demoras por falta de contexto.
+
+Incidencia crítica sistémica: aquella que afecta simultáneamente a más de un sistema central de la institución, impide la operación de múltiples sucursales o canales, o tiene impacto estimado en más de mil clientes.
+
+
+PROCEDIMIENTO
+
+Paso 1. Detección y clasificación inicial. El ejecutivo, cajero, analista o sistema de monitoreo que detecta la incidencia la registra en el sistema de tickets institucional (plataforma interna de gestión de incidencias) con los siguientes campos: descripción del problema, sistemas o canales afectados, número estimado de clientes impactados, hora de detección, y acciones inmediatas tomadas. La clasificación de severidad inicial (Alta, Media, Baja) la asigna el detector con base en la tabla de umbrales publicada por la Mesa de Control Interno.
+
+Paso 2. Intento de resolución en nivel L1. El ejecutivo de atención o el responsable del proceso en el nivel operativo intenta resolver la incidencia con los recursos y procedimientos disponibles en su nivel. El tiempo máximo de intento en L1 es de treinta minutos para incidencias de severidad Alta y de dos horas para severidad Media. Si la incidencia no se resuelve en ese período o si desde el inicio supera la capacidad del nivel L1, se procede al escalamiento inmediato a L2.
+
+Paso 3. Escalamiento a nivel L2 (Supervisor de área). El ejecutivo de L1 completa la plantilla de escalamiento y la envía al supervisor de área por el sistema de tickets, con copia al correo institucional del supervisor. La plantilla debe incluir: identificador único de la incidencia, descripción detallada del problema, impacto observado hasta el momento, acciones tomadas en L1 y resultado, razón específica por la que se escala, y nivel de urgencia. El supervisor de L2 debe acusar recibo y confirmar su intervención en un máximo de treinta minutos desde la notificación.
+
+Paso 4. Resolución en nivel L2 o escalamiento a L3. El supervisor de área en L2 interviene directamente, coordina recursos adicionales, contacta a las áreas de soporte técnico o de operaciones que correspondan, y trabaja la resolución con un plazo máximo de cuarenta y ocho horas para incidencias de severidad Media y de cuatro horas para severidad Alta. Si el problema persiste o escala en impacto, el supervisor escala a L3 usando el mismo procedimiento de plantilla y notificación.
+
+Paso 5. Escalamiento a nivel L3 (Gerente de sucursal o Gerente de Operaciones Regional). El gerente de L3 asume la coordinación de la respuesta, convoca a las áreas involucradas en una llamada o reunión de crisis si la severidad lo amerita, y tiene autoridad para aprobar soluciones de emergencia que salgan del procedimiento estándar (aplicación de reversos masivos, cierre temporal de canales, comunicación proactiva a clientes afectados). El tiempo máximo de resolución en L3 es de setenta y dos horas para la mayoría de los casos.
+
+Paso 6. Escalamiento a nivel L4 (Director Regional o Dirección de Operaciones Central). Las incidencias críticas sistémicas, las que superen setenta y dos horas sin resolución en L3, o aquellas con riesgo reputacional significativo o con amenaza de denuncia formal ante la CNBV o CONDUSEF, se escalan al nivel L4. La Dirección de Operaciones Central activa el protocolo de continuidad de negocio si aplica, coordina con el área de Comunicación Corporativa la narrativa hacia clientes y medios si fuera necesario, y notifica a la alta dirección de la institución. La resolución en L4 no tiene plazo fijo y se mantiene activa hasta el cierre total de la incidencia.
+
+Paso 7. Cierre de la incidencia. Una vez resuelta la incidencia, el nivel que la cerró registra en el sistema de tickets la solución aplicada, el tiempo total de resolución, el impacto final estimado en clientes y operaciones, y las acciones de mitigación implementadas para evitar recurrencia. Se notifica a todos los niveles que participaron en el escalamiento sobre el cierre.
+
+Paso 8. Retroalimentación y lección aprendida. Para incidencias de severidad Alta o que hayan llegado a nivel L3 o L4, la Mesa de Control Interno genera un informe de lección aprendida dentro de los cinco días hábiles siguientes al cierre. El informe se distribuye a las áreas involucradas y se almacena en la base de conocimiento interna para consulta futura.
+
+
+TIEMPOS DE RESOLUCIÓN
+
+Nivel L1: tiempo máximo de intento antes de escalar, treinta minutos para severidad Alta y dos horas para severidad Media. Nivel L2: tiempo máximo de respuesta desde notificación, treinta minutos; tiempo máximo de resolución, cuarenta y ocho horas para severidad Media y cuatro horas para severidad Alta. Nivel L3: tiempo máximo de respuesta desde notificación, quince minutos; tiempo máximo de resolución, setenta y dos horas. Nivel L4: tiempo máximo de respuesta desde notificación, diez minutos; resolución tan pronto como sea operativamente posible, sin plazo fijo establecido por la criticidad de los casos que llegan a este nivel.
+
+
+ÁREA RESPONSABLE Y ROLES
+
+La Mesa de Control Interno es la responsable de este proceso, del mantenimiento del sistema de tickets, de la publicación y actualización de la tabla de umbrales de severidad, y de la elaboración de los informes de lección aprendida. El Ejecutivo o Cajero en L1 detecta, registra y hace el primer intento de resolución. El Supervisor de Área en L2 recibe el escalamiento, coordina recursos y resuelve o escala. El Gerente de Sucursal o de Operaciones Regional en L3 coordina la respuesta de crisis y tiene autoridad para soluciones de emergencia. La Dirección Regional o la Dirección de Operaciones Central en L4 gestiona las incidencias críticas y activa los protocolos de continuidad de negocio y comunicación corporativa.
+
+
+CANALES DE ATENCIÓN
+
+El canal primario de escalamiento es el sistema de tickets interno, accesible desde cualquier equipo en la red corporativa de Banorte. Para escalamientos urgentes de L2 a L3 o de L3 a L4, se utiliza adicionalmente el correo electrónico institucional con la plantilla estandarizada y la llamada directa al responsable del nivel superior. La Mesa de Control Interno mantiene un directorio actualizado con los datos de contacto de todos los responsables de los niveles L2, L3 y L4 en cada región, incluyendo números de emergencia fuera de horario hábil para incidencias de severidad Alta.
+
+
+EXCEPCIONES Y CASOS ESPECIALES
+
+Las incidencias de seguridad de la información (intentos de intrusión, robo de datos, ransomware) tienen su propio proceso de respuesta y no siguen este procedimiento de escalamiento operativo, aunque pueden activarse de forma paralela. Las incidencias durante períodos críticos del año (cierre de mes, pagos de nómina masivos, días de quincena) tienen umbrales de escalamiento más restrictivos publicados por la Mesa de Control Interno en circular interna previa a cada período. Si el responsable de un nivel de escalamiento no responde en el tiempo establecido, el nivel inferior puede saltarse ese nivel y escalar directamente al siguiente, documentando el intento fallido de notificación.
+
+
+DISPOSICIONES FINALES
+
+El presente documento entra en vigencia a partir del primero de enero de 2026. La Mesa de Control Interno revisará este procedimiento semestralmente o cuando se identifiquen brechas operativas que requieran ajustes en los umbrales o tiempos de escalamiento. Todas las áreas de Banorte están obligadas a conocer y aplicar este proceso, y su incumplimiento puede derivar en observaciones en las auditorías internas y externas de la institución.

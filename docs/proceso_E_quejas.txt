@@ -1,0 +1,77 @@
+POLÍTICA OPERATIVA INTERNA — GESTIÓN DE QUEJAS INTERNAS
+Código de Proceso: E | Versión: 1.0 | Fecha de vigencia: Enero 2026
+Dirección responsable: Contraloría Interna
+
+
+OBJETIVO
+
+El presente documento establece el proceso institucional para la recepción, registro, investigación, resolución y seguimiento de quejas e inconformidades presentadas por clientes o empleados de Grupo Financiero Banorte sobre la operación de la institución, la calidad del servicio, las condiciones de los productos ofrecidos, o las conductas del personal. El proceso busca garantizar que toda queja sea atendida con imparcialidad, dentro de los plazos establecidos por la regulación, con respeto a los derechos del quejoso y con las medidas de confidencialidad que la gravedad del caso exija. La gestión efectiva de quejas es un componente esencial del sistema de control interno de la institución y un indicador de la calidad de servicio monitoreado por la alta dirección.
+
+
+ALCANCE
+
+Este proceso aplica a las quejas presentadas por clientes personas físicas o morales que expresan inconformidad con el servicio, el trato recibido, las condiciones de sus productos, la actuación de personal de Banorte, o cualquier situación que consideren contraria a sus derechos como usuarios de servicios financieros, y que no involucren una reclamación económica directa. Aplica también a quejas de empleados sobre prácticas internas, conductas del personal directivo, condiciones laborales relacionadas con la operación bancaria, o posibles irregularidades en el manejo de recursos. El proceso cubre todos los canales de recepción: físico, digital, telefónico y postal. Las reclamaciones formales con implicación económica directa (disputas de cargos, errores en transferencias) se rigen por el Proceso A de Atención de Aclaraciones.
+
+
+MARCO NORMATIVO
+
+La Ley de Protección y Defensa al Usuario de Servicios Financieros establece en sus artículos 50 y siguientes los derechos del usuario para presentar quejas ante la institución financiera y, de no obtener respuesta satisfactoria, ante la CONDUSEF. El Reglamento de la CONDUSEF define los plazos máximos de atención de quejas y los requisitos mínimos de la respuesta de la institución. La Circular de la CNBV en materia de atención a usuarios establece las obligaciones de registro, seguimiento y reporte de quejas que las instituciones de crédito deben cumplir. La NOM-036-SCFI-2021 regula las condiciones generales de atención de quejas y reclamaciones en servicios financieros, incluyendo la obligación de proporcionar acuse de recibo al quejoso. La Ley Federal del Trabajo en su artículo 133 y el Reglamento Interior de Trabajo de Banorte regulan el proceso de quejas presentadas por empleados sobre condiciones laborales.
+
+
+DEFINICIONES
+
+Queja: manifestación de inconformidad presentada por un cliente o empleado sobre la actuación de la institución, su personal, o sus procesos, que no implica necesariamente una pérdida económica directa cuantificable, pero que requiere atención formal y respuesta documentada por parte de la institución.
+
+Reclamación formal: solicitud que implica una disputa económica directa (cobro incorrecto, cargo no aplicado, diferencia en saldo) y tiene consecuencias legales y regulatorias específicas. La reclamación formal se rige por el Proceso A.
+
+Quejoso: persona física o moral que presenta la queja, sea en su carácter de cliente o de empleado de la institución.
+
+Número de expediente: clave alfanumérica única asignada a cada queja recibida, que permite su trazabilidad desde la recepción hasta el cierre, y que se proporciona al quejoso como constancia de que su inconformidad fue formalmente recibida.
+
+Analista de quejas: funcionario del área de Contraloría Interna responsable de investigar los hechos descritos en la queja, documentar el proceso de investigación y emitir la resolución fundamentada.
+
+Resolución: determinación final de la Contraloría Interna respecto de la queja presentada, que puede ser favorable al quejoso (se reconoce la irregularidad y se determinan medidas correctivas), desfavorable al quejoso (se concluye que la actuación de la institución fue correcta), o parcialmente favorable (se reconoce parte de los hechos descritos).
+
+
+PROCEDIMIENTO
+
+Paso 1. Recepción de la queja. El cliente o empleado presenta su queja a través de cualquiera de los canales habilitados: formato físico disponible en todas las sucursales, correo electrónico institucional designado para quejas, portal de atención al usuario en el sitio web de Banorte, correo postal certificado dirigido a la Contraloría Interna, o llamada a Banorte Tel con solicitud de registro de queja formal. En todos los casos, el personal receptor solicita al quejoso que describa los hechos de forma clara, con fechas, nombres de las personas involucradas (si aplica), y cualquier documento que pueda sustentar su inconformidad.
+
+Paso 2. Registro en el sistema de gestión de quejas. El área de Contraloría Interna registra la queja en el sistema de gestión de quejas e inconformidades dentro de las veinticuatro horas siguientes a su recepción, asignando un número de expediente único, clasificando la queja por tipo (servicio, trato al cliente, producto, conducta del personal, operación irregular), y determinando su nivel de complejidad (simple, media, compleja).
+
+Paso 3. Emisión del acuse de recibo. Dentro de los tres días hábiles siguientes a la recepción de la queja, la Contraloría Interna emite al quejoso un acuse de recibo por el mismo canal en que se presentó la queja. El acuse incluye: el número de expediente asignado, la fecha de recepción, el nombre y datos de contacto del analista responsable, el plazo estimado de resolución, y la indicación de los derechos del quejoso durante el proceso.
+
+Paso 4. Investigación de los hechos. El analista asignado revisa los registros del sistema de atención al cliente, los videos de cámaras de seguridad si aplica, las grabaciones de llamadas telefónicas, los correos electrónicos intercambiados, los estados de cuenta y movimientos relacionados, y cualquier otra evidencia disponible. Si la queja involucra a personal de Banorte, el analista entrevista al personal señalado y a posibles testigos, dejando constancia escrita de las entrevistas. El analista puede solicitar al quejoso información o documentación adicional, otorgándole un plazo razonable para proporcionarla sin que este tiempo suspenda el plazo de resolución a cargo de la institución.
+
+Paso 5. Elaboración del dictamen. Con base en la evidencia recopilada, el analista elabora un dictamen que incluye: descripción de los hechos investigados, evidencias revisadas, conclusiones sobre si los hechos descritos en la queja se acreditan o no, y la resolución propuesta. Para quejas complejas o que involucren a personal de nivel gerencial, el dictamen requiere la revisión y validación del Contralor Interno antes de emitirse al quejoso.
+
+Paso 6. Emisión de la resolución. La Contraloría Interna comunica la resolución al quejoso de forma escrita, por el canal de su preferencia, dentro del plazo comprometido. La resolución incluye: el número de expediente, la resolución adoptada (favorable, desfavorable o parcialmente favorable), la fundamentación y motivación de la decisión en términos claros y accesibles para el quejoso, las medidas correctivas adoptadas por la institución si la resolución es favorable, y la indicación del derecho del quejoso a apelar internamente o a acudir a la CONDUSEF si no está de acuerdo con la resolución.
+
+Paso 7. Período de apelación interna. El quejoso tiene quince días hábiles a partir de la notificación de la resolución para presentar una apelación interna ante la Contraloría Interna, aportando nuevos elementos o argumentando por qué la resolución no atiende correctamente su inconformidad. La apelación es revisada por un analista distinto al que emitió la resolución original, y debe resolverse en un plazo máximo de diez días hábiles adicionales.
+
+Paso 8. Cierre del expediente. Una vez vencido el período de apelación sin que el quejoso se inconformate, o una vez resuelta la apelación, el expediente se cierra en el sistema de gestión de quejas. El cierre incluye el registro de todas las actuaciones, evidencias, comunicaciones y resoluciones del proceso, y el expediente se conserva por un mínimo de cinco años.
+
+
+TIEMPOS DE RESOLUCIÓN
+
+El acuse de recibo debe emitirse al quejoso en un máximo de tres días hábiles desde la recepción de la queja. La resolución estándar debe notificarse al quejoso en un plazo máximo de cinco días hábiles para quejas simples y de siete días hábiles para quejas de complejidad media. Las quejas complejas, que involucren investigación de conducta de personal de nivel gerencial, múltiples áreas de la institución, o posibles implicaciones legales, pueden requerir hasta veinte días hábiles para su resolución. Si el banco no resuelve la queja dentro del plazo máximo, el cliente tiene derecho inmediato de presentarla ante la CONDUSEF sin necesidad de esperar más tiempo.
+
+
+ÁREA RESPONSABLE Y ROLES
+
+La Contraloría Interna es la responsable del proceso en su totalidad, garantizando la imparcialidad de la investigación y la confidencialidad del proceso. El Analista de Quejas recibe los expedientes asignados, realiza la investigación, elabora el dictamen y comunica la resolución al quejoso. El Contralor Interno revisa y valida los dictámenes de quejas complejas o de alto impacto antes de su notificación. El área de Recursos Humanos interviene en los casos de quejas presentadas por empleados que involucren posibles violaciones al Reglamento Interior de Trabajo. El personal de sucursal y de los demás canales de atención tiene la obligación de recibir la queja y canalizarla a la Contraloría Interna dentro de las veinticuatro horas siguientes.
+
+
+CANALES DE ATENCIÓN
+
+El formato físico de queja está disponible en todas las sucursales de Banorte y puede entregarse en ventanilla con el personal de servicios, quien lo canaliza a la Contraloría Interna el mismo día. El correo electrónico institucional para quejas es la vía más rápida para quejas que incluyen documentación adjunta. El portal web de Banorte cuenta con un formulario en línea para el registro de quejas disponible las veinticuatro horas. La atención telefónica en Banorte Tel recibe y registra quejas en horario hábil, con posibilidad de generar el expediente durante la llamada. El correo postal certificado es el canal para quejosos que deseen conservar evidencia formal de la presentación de su inconformidad.
+
+
+EXCEPCIONES Y CASOS ESPECIALES
+
+Las quejas que involucren posibles conductas delictivas (fraude interno, corrupción, malversación de fondos) se turnan de inmediato al área de Seguridad Corporativa y a la Dirección Jurídica, con notificación al Consejo de Administración si el monto o la jerarquía de las personas involucradas lo ameritan, y pueden derivar en denuncia ante el Ministerio Público. Las quejas de clientes que estén en proceso de demanda legal contra la institución se coordinan entre la Contraloría Interna y la Dirección Jurídica. Cuando el volumen de quejas sobre un mismo proceso, producto o área supera el umbral mensual establecido por la Contraloría Interna, se activa una revisión de proceso extraordinaria con la Dirección responsable para identificar y corregir la causa raíz.
+
+
+DISPOSICIONES FINALES
+
+El presente documento entra en vigencia a partir del primero de enero de 2026 y deroga cualquier versión anterior del proceso de gestión de quejas. La Contraloría Interna revisará este procedimiento de forma anual o cuando cambien las disposiciones regulatorias de la CONDUSEF o de la CNBV aplicables al proceso. Los resultados estadísticos del proceso de quejas (volumen, tiempos de resolución, tipos más frecuentes, tasa de resolución favorable) son reportados mensualmente al Comité de Auditoría y al Consejo de Administración como indicador de la calidad del servicio y la salud del control interno de la institución.

@@ -1,0 +1,75 @@
+POLÍTICA OPERATIVA INTERNA — ACTUALIZACIÓN DE DATOS DEL CLIENTE
+Código de Proceso: D | Versión: 1.0 | Fecha de vigencia: Enero 2026
+Dirección responsable: Cumplimiento y KYC
+
+
+OBJETIVO
+
+El presente documento establece el proceso institucional para la actualización de datos personales, de contacto y fiscales de los clientes de Grupo Financiero Banorte en el sistema central de información. El proceso garantiza que la información del cliente sea veraz, vigente y confiable en todo momento, cumpliendo con las obligaciones de identificación del cliente (Know Your Customer) establecidas por la regulación financiera mexicana e internacional. La actualización oportuna y correcta de los datos del cliente es fundamental para el funcionamiento de los controles de prevención de lavado de dinero, para la correcta comunicación con el cliente y para el cumplimiento de las obligaciones fiscales de la institución y del propio cliente.
+
+
+ALCANCE
+
+Este proceso aplica a todos los clientes personas físicas y personas morales que requieran modificar su información registrada en Banorte, incluyendo los siguientes tipos de datos: dirección de domicilio fiscal y de correspondencia, número de teléfono móvil o fijo, dirección de correo electrónico, Clave Única de Registro de Población (CURP), Registro Federal de Contribuyentes (RFC), estado civil, régimen fiscal ante el SAT, datos de identificación oficial (renovación por vencimiento), y datos de representantes legales en el caso de personas morales. La actualización de datos aplica a todos los productos que el cliente tenga contratados con Banorte, actualizándose en el expediente de cliente único de forma centralizada.
+
+
+MARCO NORMATIVO
+
+La Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita (LFPIORPI), conocida como Ley Antilavado, obliga a las instituciones financieras a mantener actualizada la información de identificación de sus clientes y a realizar revisiones periódicas del expediente KYC. Las Disposiciones de Carácter General a que se refiere el artículo 115 de la Ley de Instituciones de Crédito (Circular CNBV en materia de prevención de lavado de dinero) establecen los requisitos mínimos del expediente de identificación del cliente y los plazos máximos de actualización según el perfil de riesgo del cliente. El Código Fiscal de la Federación y las disposiciones del Servicio de Administración Tributaria (SAT) regulan la validez del RFC y los requisitos de la constancia de situación fiscal. La Ley Federal de Protección de Datos Personales en Posesión de los Particulares (LFPDPPP) y los Lineamientos del INAI establecen los derechos del titular de los datos y las obligaciones de la institución como responsable del tratamiento de datos personales.
+
+
+DEFINICIONES
+
+KYC (Know Your Customer): proceso de identificación y verificación de la identidad del cliente, incluyendo la comprensión de su perfil de riesgo, actividad económica y origen de fondos, como medida de prevención de lavado de dinero y financiamiento al terrorismo.
+
+Expediente de cliente único: repositorio centralizado en el sistema de Banorte que concentra toda la información de identificación, contacto y fiscal de un cliente, independientemente del número de productos que tenga contratados.
+
+Dato sensible: información personal cuya actualización incorrecta o sin los controles adecuados puede tener consecuencias legales, fiscales o de seguridad significativas para el cliente o para la institución. Se consideran datos sensibles: CURP, RFC, estado civil, régimen fiscal, datos biométricos y datos de representantes legales.
+
+Dato de contacto: información que permite a la institución comunicarse con el cliente para notificaciones operativas, de seguridad y comerciales. Incluye teléfono móvil, teléfono fijo y correo electrónico.
+
+Comprobante de domicilio: documento emitido por una entidad reconocida (empresa de servicios públicos, institución bancaria, autoridad gubernamental) que acredita la residencia del cliente en la dirección declarada, con antigüedad no mayor a tres meses.
+
+Autenticación biométrica: proceso de verificación de identidad mediante el cotejo de características físicas del cliente (huella dactilar, reconocimiento facial) contra los datos biométricos registrados en el expediente de la institución o en el sistema del INE.
+
+
+PROCEDIMIENTO
+
+Paso 1. Solicitud de actualización. El cliente solicita la actualización de sus datos a través del canal correspondiente según el tipo de dato a modificar. Para datos de contacto (teléfono y correo electrónico), los canales disponibles son la aplicación móvil de Banorte, la banca en línea y la sucursal. Para datos sensibles (CURP, RFC, estado civil, régimen fiscal, representante legal en personas morales), el único canal válido es la sucursal bancaria con presencia física obligatoria del titular o su representante legal debidamente acreditado.
+
+Paso 2. Verificación de identidad. El ejecutivo en sucursal verifica la identidad del cliente mediante identificación oficial vigente (INE, pasaporte mexicano o extranjero con legal estancia, cédula profesional) y mediante autenticación biométrica a través del sistema de lectores de huella dactilar instalado en todas las sucursales. En canales digitales, la autenticación se realiza mediante el NIP de acceso y un código de verificación de un solo uso (OTP) enviado al teléfono registrado o al correo electrónico existente.
+
+Paso 3. Recepción y validación de documentos soporte. El ejecutivo recibe y valida los documentos requeridos según el tipo de actualización solicitada. Para actualización de dirección: comprobante de domicilio no mayor a tres meses (recibo de CFE, recibo de agua, recibo del IMSS, estado de cuenta bancario de otra institución, o comprobante predial). Para actualización de CURP: copia de la CURP vigente emitida por el Registro Nacional de Población (RENAPO) con código QR verificable, acompañada de identificación oficial vigente. Para actualización de RFC: constancia de situación fiscal emitida por el SAT con una antigüedad no mayor a treinta días, verificable mediante el portal del SAT. Para actualización de estado civil: acta de matrimonio o sentencia de divorcio emitida por el Registro Civil; si el documento fue emitido en el extranjero, debe presentarse apostillada y, en su caso, con traducción oficial al español.
+
+Paso 4. Captura en el sistema central. El ejecutivo captura los nuevos datos en el sistema de actualización de expediente de cliente único, adjunta los documentos escaneados al expediente digital y registra la fecha, el canal y el folio de la actualización. Para datos fiscales (RFC y régimen fiscal), el sistema realiza una consulta automática al servicio de validación del SAT antes de confirmar la captura, con el fin de asegurar la consistencia de la información.
+
+Paso 5. Validación y aprobación. Las actualizaciones de datos de contacto son procesadas de forma inmediata y automática tras la verificación de identidad. Las actualizaciones de datos fiscales (RFC, régimen fiscal) quedan en estatus pendiente hasta que el sistema recibe confirmación de la consulta al SAT, lo cual ocurre en un plazo máximo de dos días hábiles. Las actualizaciones de estado civil y cambio de CURP requieren la revisión y aprobación del Oficial de Cumplimiento de la sucursal antes de hacerse efectivas en el sistema.
+
+Paso 6. Confirmación al cliente. Una vez procesada la actualización, el sistema envía una notificación al cliente al correo electrónico y al número de teléfono previamente registrados, confirmando el tipo de dato actualizado, la fecha y hora de la actualización, y un número de referencia de la operación. Si el dato actualizado fue precisamente el correo o el teléfono, la notificación se envía al dato anterior (para alertar al titular en caso de modificación no autorizada) y al nuevo dato registrado.
+
+Paso 7. Propagación en todos los productos. La actualización del expediente de cliente único se propaga automáticamente a todos los productos activos del cliente en Banorte. El ejecutivo verifica en pantalla que la actualización sea visible en todos los productos antes de despedir al cliente.
+
+
+TIEMPOS DE RESOLUCIÓN
+
+La actualización de datos de contacto (teléfono y correo electrónico) es inmediata en todos los canales, aplicándose en el momento en que se confirma la verificación de identidad. La actualización de dirección de domicilio en sucursal se aplica de forma inmediata tras la validación del comprobante. La actualización de CURP se aplica de forma inmediata tras la validación documental en sucursal. La actualización de RFC y régimen fiscal se aplica en un plazo máximo de dos días hábiles, sujeta a la respuesta del servicio de validación del SAT. La actualización de estado civil queda aplicada en un máximo de dos días hábiles, tras la revisión del Oficial de Cumplimiento.
+
+
+ÁREA RESPONSABLE Y ROLES
+
+La Dirección de Cumplimiento y KYC es la responsable del proceso, del mantenimiento de los catálogos de documentos requeridos y de la supervisión del cumplimiento regulatorio en materia de identificación del cliente. El Ejecutivo de Servicios en sucursal recibe la solicitud, verifica la identidad, valida los documentos y captura la actualización en el sistema. El Oficial de Cumplimiento de la sucursal revisa y aprueba las actualizaciones de datos sensibles (estado civil, CURP) antes de su aplicación definitiva. El área de Tecnología e Innovación es responsable del mantenimiento del sistema de expediente de cliente único, de la integración con el servicio de validación del SAT y del sistema de autenticación biométrica.
+
+
+CANALES DE ATENCIÓN
+
+La sucursal bancaria es el canal obligatorio para la actualización de datos sensibles: CURP, RFC, régimen fiscal, estado civil, y actualización de representantes legales en personas morales. La banca en línea y la aplicación móvil de Banorte están habilitadas para la actualización de datos de contacto (teléfono y correo electrónico) previa autenticación con NIP y OTP, sin necesidad de presentar documentos físicos. En ningún caso se reciben solicitudes de actualización de datos por correo electrónico o por teléfono, dado el riesgo de suplantación de identidad.
+
+
+EXCEPCIONES Y CASOS ESPECIALES
+
+Cuando una resolución judicial ordena el cambio de datos de múltiples cuentas de un mismo cliente (por ejemplo, en casos de protección a víctimas de violencia doméstica que requieren cambio de domicilio de forma urgente), el área de Cumplimiento coordina con la Dirección Jurídica y con el área de Tecnología para un procesamiento expedito, que puede realizarse de forma batch fuera de los canales estándar con autorización expresa de la Dirección de Cumplimiento. Cuando un cliente fallece, la actualización de datos o el traspaso de productos no sigue este proceso y se canaliza al proceso de sucesión bancaria. Los clientes con perfil de riesgo Alto según la clasificación KYC tienen un ciclo de actualización obligatoria más frecuente y pueden ser requeridos por el área de Cumplimiento para actualizar su expediente aunque no lo hayan solicitado.
+
+
+DISPOSICIONES FINALES
+
+El presente documento entra en vigencia a partir del primero de enero de 2026 y deroga cualquier versión anterior del proceso de actualización de datos del cliente. La Dirección de Cumplimiento y KYC revisará este procedimiento de forma anual o cuando exista un cambio en la regulación aplicable en materia de identificación del cliente o protección de datos personales. Cualquier modificación requiere la aprobación de la Dirección de Cumplimiento, la Dirección Jurídica y la Dirección de Tecnología antes de su implementación.

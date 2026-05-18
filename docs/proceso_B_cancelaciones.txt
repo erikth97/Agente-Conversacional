@@ -1,0 +1,77 @@
+POLÍTICA OPERATIVA INTERNA — CANCELACIÓN DE PRODUCTOS BANCARIOS
+Código de Proceso: B | Versión: 1.0 | Fecha de vigencia: Enero 2026
+Dirección responsable: Retención de Clientes
+
+
+OBJETIVO
+
+El presente documento establece el procedimiento institucional para gestionar las solicitudes de cancelación de productos bancarios presentadas por clientes de Grupo Financiero Banorte, incluyendo tarjetas de crédito y débito, cuentas de depósito a la vista, cuentas de ahorro, créditos personales, créditos hipotecarios y seguros bancarios. El proceso busca garantizar que cada cancelación se atienda de forma ordenada, cumpliendo con las obligaciones regulatorias de información al cliente, ejecutando las verificaciones de condición del producto y ofreciendo alternativas de retención cuando corresponda, sin contravenir la libre voluntad del cliente de terminar su relación con un producto específico de la institución.
+
+
+ALCANCE
+
+Este proceso aplica a todos los clientes personas físicas y personas morales que mantengan algún producto activo en Banorte y que soliciten su cancelación de manera voluntaria. Cubre tarjetas de crédito (nacionales e internacionales), tarjetas de débito, cuentas de cheques, cuentas de ahorro, cuentas de nómina, créditos personales con saldo liquidado, créditos automotrices, créditos hipotecarios con garantía liberada, y seguros de vida, gastos médicos o daños contratados a través de Banorte Seguros. No aplica a cancelaciones por mandato judicial, cancelaciones derivadas de fallecimiento del titular (que se rigen por el proceso de sucesión), ni cancelaciones por disposición regulatoria, las cuales se gestionan mediante procesos independientes.
+
+
+MARCO NORMATIVO
+
+La Ley de Instituciones de Crédito, en su artículo 56 y siguientes, establece las condiciones bajo las cuales una institución bancaria puede o debe proceder a la cancelación de productos. La Circular de Bancos emitida por la CNBV señala los requisitos mínimos de información que debe recibir el cliente antes de cancelar un producto. Las Reglas de Operación de la CONDUSEF establecen los derechos del usuario en el proceso de cancelación, incluyendo el derecho a recibir constancia escrita de la cancelación y a que no se le generen cargos adicionales por el proceso en sí. La Ley para la Transparencia y Ordenamiento de los Servicios Financieros regula las comisiones aplicables durante el período de cierre del producto.
+
+
+DEFINICIONES
+
+Cancelación voluntaria: solicitud iniciada por el cliente para dar por terminada su relación contractual con uno o más productos bancarios, sin que medie obligación legal o regulatoria para ello.
+
+Producto con condición restrictiva: producto que presenta saldo deudor, garantías activas, domiciliaciones vigentes, juicio legal pendiente u otro elemento que impide su cancelación inmediata y requiere resolución previa.
+
+Proceso de retención: oferta de alternativas comerciales o de servicio que el ejecutivo está obligado a presentar al cliente antes de proceder con la cancelación, con el objetivo de preservar la relación comercial. La presentación de la oferta es obligatoria; la aceptación de la misma es completamente voluntaria por parte del cliente.
+
+Constancia de cancelación: documento escrito o electrónico que acredita la terminación del producto, el número de referencia, la fecha efectiva de cancelación y la confirmación de que no quedan cargos o saldos pendientes a cargo del cliente.
+
+Domiciliación: servicio mediante el cual el cliente autoriza a un tercero (empresa de servicios, suscripción, servicio gubernamental) a realizar cargos recurrentes en su tarjeta o cuenta. Su existencia no impide la cancelación, pero el cliente debe ser informado para reasignar los cargos antes del cierre.
+
+
+PROCEDIMIENTO
+
+Paso 1. Recepción de la solicitud. El cliente solicita la cancelación del producto en cualquiera de los canales habilitados según el tipo de producto. El ejecutivo o sistema receptor verifica la identidad del titular mediante identificación oficial vigente, NIP de acceso, autenticación biométrica o clave de seguridad telefónica según el canal.
+
+Paso 2. Identificación del producto y verificación de condiciones. El ejecutivo consulta en el sistema el estado actual del producto solicitado: saldo deudor o acreedor, cargos diferidos pendientes de cobro, domiciliaciones activas, garantías vinculadas, existencia de juicios o embargos registrados, seguros asociados, y cualquier otro elemento que pudiera impedir o condicionar la cancelación.
+
+Paso 3. Comunicación de condiciones restrictivas. Si el producto presenta alguna condición que impide la cancelación inmediata, el ejecutivo informa al cliente de manera clara y documentada: monto pendiente a liquidar, plazos para liberar garantías, domiciliaciones activas que requieren reasignación. El cliente recibe por escrito o por correo electrónico el detalle de las condiciones y los pasos necesarios para cumplirlas. La cancelación queda en estado pendiente hasta que se resuelvan dichas condiciones.
+
+Paso 4. Presentación de la oferta de retención. Antes de proceder con la cancelación, el ejecutivo está obligado a presentar al cliente hasta una oferta de retención, que puede incluir: reducción o exención de anualidad por un período determinado, cambio a un producto de menor costo o que se adapte mejor al perfil de uso del cliente, bonificación de puntos o recompensas, diferimiento de saldos con condiciones especiales, o mejora de tasa en productos de captación. El ejecutivo registra en sistema la oferta realizada y la respuesta del cliente. Si el cliente rechaza la oferta, se procede con la cancelación sin ningún intento adicional ni presión indebida.
+
+Paso 5. Confirmación de la solicitud. El cliente confirma su decisión de cancelación de forma expresa: firma en sucursal, confirmación por NIP en banca en línea o aplicación móvil, o confirmación verbal grabada en canal telefónico. Esta confirmación queda registrada en el expediente del cliente con sello de fecha y hora.
+
+Paso 6. Cancelación del producto en sistema. El ejecutivo procede a la cancelación en el sistema central: bloqueo del producto para nuevas operaciones, cierre de líneas de crédito asociadas, cancelación de seguros vinculados (con notificación a Banorte Seguros), cancelación de domiciliaciones registradas en Banorte (se informa al cliente que debe notificar directamente a los emisores de los cargos domiciliados), y liberación de fondos disponibles en cuentas de captación.
+
+Paso 7. Liquidación y devolución de saldos. Si el producto presenta saldo a favor del cliente (cuenta de depósito, puntos redimibles, devolución de anualidad proporcional), el ejecutivo gestiona la devolución por transferencia a otra cuenta del cliente o mediante cheque de caja según preferencia del cliente. Los saldos deudores deben ser liquidados por el cliente antes de la cancelación efectiva.
+
+Paso 8. Emisión de constancia de cancelación. Al confirmar el cierre del producto en el sistema, el ejecutivo emite una constancia de cancelación que incluye: nombre del producto cancelado, número de cuenta o contrato, fecha efectiva de cancelación, número de referencia, y confirmación de que no existen cargos pendientes a cargo del cliente. Esta constancia se entrega en papel en sucursal o se envía al correo electrónico registrado en canales digitales.
+
+Paso 9. Destrucción de plásticos. En caso de cancelación de tarjetas, el ejecutivo procede a la destrucción física del plástico en presencia del cliente en sucursal, o instruye al cliente a destruirla por cuenta propia en canales remotos, dejando constancia en el expediente.
+
+
+TIEMPOS DE RESOLUCIÓN
+
+La cancelación de tarjetas de débito y cuentas de depósito sin condiciones restrictivas se procesa de forma inmediata en el mismo momento de la solicitud. La cancelación de tarjetas de crédito requiere entre uno y dos días hábiles para confirmar que no existen cargos diferidos pendientes de procesamiento en los sistemas internacionales. La cancelación de créditos personales liquidados tarda hasta dos días hábiles en reflejarse en el Buró de Crédito con estatus de cerrado, aunque la constancia de Banorte se emite de inmediato. La liberación de garantías hipotecarias para cancelar créditos hipotecarios requiere entre tres y cinco días hábiles adicionales por el proceso notarial correspondiente.
+
+
+ÁREA RESPONSABLE Y ROLES
+
+La Dirección de Retención de Clientes es responsable del proceso en su totalidad, incluyendo el diseño y actualización de las ofertas de retención vigentes. El Ejecutivo de Servicios en sucursal o el Agente Telefónico en canal remoto atienden la solicitud, realizan la verificación de condiciones y presentan la oferta de retención. El Supervisor de Retención revisa los casos de cancelación de productos con saldo histórico superior a quinientos mil pesos o con antigüedad mayor a diez años, con el objetivo de escalar la oferta de retención si es pertinente. El área de Operaciones ejecuta los procesos técnicos de cierre en el sistema central y la generación de la constancia de cancelación.
+
+
+CANALES DE ATENCIÓN
+
+La cancelación de tarjetas de crédito, débito y cuentas se puede gestionar en sucursal bancaria con identificación oficial, por teléfono a través de Banorte Tel previa autenticación, o por banca en línea para productos sin condiciones restrictivas. La cancelación de créditos hipotecarios y créditos con garantía real requiere presencia en sucursal de forma obligatoria. Los canales digitales (banca en línea y aplicación móvil) están habilitados únicamente para cancelación de tarjetas sin saldo deudor ni cargos diferidos.
+
+
+EXCEPCIONES Y CASOS ESPECIALES
+
+Cuando un cliente solicita cancelar todos sus productos simultáneamente (cancelación total de relación), el caso se turna al Supervisor de Retención para una oferta personalizada de mayor nivel antes de proceder. Si el cliente reporta que ha sido víctima de fraude o coerción en la solicitud de cancelación, el proceso se suspende y se turna al área de Seguridad Corporativa. Los clientes con productos vinculados a créditos empresariales o garantías cruzadas requieren la intervención del área de Banca de Empresas para determinar el impacto de la cancelación en el esquema de financiamiento global del cliente.
+
+
+DISPOSICIONES FINALES
+
+El presente documento entra en vigencia a partir del primero de enero de 2026 y deroga cualquier versión anterior del proceso de cancelación de productos. Su revisión está programada con periodicidad anual o de forma extraordinaria cuando exista un cambio regulatorio que afecte los derechos del usuario en materia de cancelación. Las modificaciones deben contar con la aprobación de la Dirección de Retención de Clientes y de la Dirección Jurídica antes de su implementación.

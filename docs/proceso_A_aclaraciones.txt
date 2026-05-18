@@ -1,0 +1,81 @@
+POLÍTICA OPERATIVA INTERNA — ATENCIÓN DE ACLARACIONES
+Código de Proceso: A | Versión: 1.0 | Fecha de vigencia: Enero 2026
+Dirección responsable: Operaciones y Calidad
+
+
+OBJETIVO
+
+El presente documento establece el procedimiento institucional que rige la atención, investigación y resolución de aclaraciones presentadas por clientes de Grupo Financiero Banorte ante cargos no reconocidos, montos incorrectos, operaciones duplicadas o cobros por servicios no contratados en sus productos bancarios. El proceso busca garantizar una respuesta oportuna, documentada y apegada al marco regulatorio vigente, protegiendo tanto los intereses del cliente como la integridad operativa de la institución. Este procedimiento aplica a todas las unidades de negocio, canales de atención y sistemas de procesamiento transaccional de Banorte.
+
+
+ALCANCE
+
+Este proceso aplica a todos los clientes personas físicas y personas morales que sean titulares de cuentas de depósito, tarjetas de crédito, tarjetas de débito, y demás productos activos ofrecidos por Banorte. Cubre las siguientes tipologías de aclaración: cargos no reconocidos por el titular, montos cargados de forma incorrecta o diferente a lo autorizado, operaciones duplicadas derivadas de fallas en el procesamiento, cargos por servicios o comisiones no contratados expresamente, y retiros no reconocidos en cajeros automáticos propios o de terceros. Quedan excluidos del presente proceso las disputas comerciales entre el cliente y el establecimiento afiliado, las cuales deben canalizarse directamente con el comercio o mediante el proceso de contracargo con el adquirente correspondiente.
+
+
+MARCO NORMATIVO
+
+El presente proceso se rige por la Circular 6/2017 emitida por la Comisión Nacional Bancaria y de Valores (CNBV), que establece los plazos máximos y requisitos mínimos para la atención de reclamaciones de usuarios de servicios financieros. Asimismo, se apega a la Ley de Protección y Defensa al Usuario de Servicios Financieros (LPDUSEF) y a las Reglas de Operación de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros (CONDUSEF). En materia de operaciones con tarjetas, aplican las reglas de los esquemas internacionales Visa y Mastercard para disputas y contracargos. La Ley de Instituciones de Crédito establece en su artículo 48 las obligaciones de la institución respecto a la custodia y veracidad de los registros transaccionales.
+
+
+DEFINICIONES
+
+Aclaración: solicitud formal presentada por el cliente para cuestionar una o más operaciones registradas en su cuenta o tarjeta, que considera incorrectas, no autorizadas o duplicadas.
+
+Folio de aclaración: número único de seguimiento asignado al momento de recibir la solicitud, que permite al cliente y a la institución rastrear el estado del proceso en cualquier momento.
+
+Cargo no reconocido: operación debitada o cargada en la cuenta del cliente sin que este haya autorizado o reconozca haber realizado dicha transacción.
+
+Operación duplicada: registro de una misma transacción más de una vez en el sistema, generando un cobro mayor al autorizado por el cliente.
+
+Resolución favorable: determinación mediante la cual la institución acepta la aclaración del cliente y procede a la devolución parcial o total del monto en disputa.
+
+Resolución desfavorable: determinación mediante la cual la institución, tras la investigación correspondiente, concluye que la operación fue legítima y no procede la devolución.
+
+Contracargo: proceso formal mediante el cual la institución emisora de la tarjeta solicita al adquirente o comercio la devolución del monto de una transacción disputada, conforme a las reglas del esquema de pago internacional.
+
+
+PROCEDIMIENTO
+
+Paso 1. Recepción de la solicitud. El cliente presenta su aclaración a través de cualquiera de los canales habilitados: sucursal bancaria, banca en línea, aplicación móvil Banorte o centro de atención telefónica. El ejecutivo o sistema receptor verifica la identidad del cliente mediante identificación oficial vigente, NIP de acceso o autenticación biométrica según el canal utilizado.
+
+Paso 2. Registro y asignación de folio. El sistema de gestión de aclaraciones registra la solicitud con los datos del cliente, la operación cuestionada (fecha, monto, establecimiento o descripción), el canal de presentación y la tipología de la aclaración. Se genera automáticamente un folio único que se comunica al cliente de forma inmediata, junto con la confirmación de recepción y el plazo estimado de resolución.
+
+Paso 3. Recopilación de documentos soporte. Dependiendo del tipo de aclaración, el cliente deberá proporcionar los siguientes documentos: identificación oficial vigente (INE, pasaporte o cédula profesional), estado de cuenta o historial transaccional que muestre el cargo en disputa, y carta aclaratoria firmada en la que detalle las circunstancias del cargo no reconocido. Para cargos en comercios físicos, se puede solicitar adicionalmente el comprobante de pago correspondiente al día de la operación.
+
+Paso 4. Investigación interna. El área de Operaciones y Calidad inicia la investigación revisando los registros transaccionales del sistema core bancario, los logs de autorización del switch de pagos, los registros de autenticación (NIP ingresado, token digital utilizado, datos de geolocalización si aplica) y los archivos de intercambio con el adquirente o esquema internacional. En caso de operaciones con tarjeta en comercios, se solicita al adquirente la documentación del voucher electrónico o impreso firmado.
+
+Paso 5. Contacto con procesador de pagos o adquirente. Cuando la investigación interna no es suficiente para determinar la legitimidad de la operación, el área de Operaciones inicia el proceso de contracargo con el adquirente o esquema internacional correspondiente, conforme a los plazos y formatos requeridos por Visa, Mastercard u otros esquemas. Este sub-proceso puede extender el tiempo de resolución hasta el plazo máximo permitido por regulación.
+
+Paso 6. Determinación y resolución. Con base en la evidencia recopilada, el analista responsable emite una resolución fundada y motivada. Si la evidencia no acredita que el cliente realizó la operación, la resolución es favorable y se procede a la devolución. Si la evidencia muestra que el cliente autorizó la transacción (NIP correcto, token validado, geolocalización consistente, firma en voucher), la resolución es desfavorable.
+
+Paso 7. Notificación al cliente. La resolución se comunica al cliente por el mismo canal por el que presentó la aclaración, o por correo electrónico registrado en el sistema, dentro del plazo comprometido. La comunicación incluye el número de folio, la resolución (favorable o desfavorable), la fundamentación de la decisión y, en caso desfavorable, la indicación de los derechos del cliente para inconformarse ante la CONDUSEF.
+
+Paso 8. Devolución del monto (resolución favorable). El área de Operaciones procesa la devolución del monto en disputa en la cuenta o tarjeta del cliente dentro de las 24 horas hábiles siguientes a la emisión de la resolución favorable. Se genera una referencia de abono que se notifica al cliente.
+
+Paso 9. Cierre y archivo. El expediente de la aclaración se cierra con el registro de la resolución, los documentos de soporte, el registro de comunicaciones con el cliente y, en su caso, la evidencia del proceso de contracargo. El expediente se conserva en sistema por un mínimo de cinco años conforme a las disposiciones de la CNBV.
+
+
+TIEMPOS DE RESOLUCIÓN
+
+El plazo estándar de resolución es de tres a cinco días hábiles contados a partir de la recepción de la solicitud completa (con todos los documentos requeridos). Para casos que requieren proceso de contracargo con adquirente internacional, el plazo máximo es de veinte días hábiles conforme a lo establecido en la Circular 6/2017 de la CNBV. El cliente recibe una notificación de estatus a los cinco días hábiles si la resolución aún está en proceso. Los casos de fraude con denuncia ante el Ministerio Público presentada por el cliente pueden extender el plazo hasta cuarenta y cinco días hábiles, en coordinación con el área Legal de la institución.
+
+
+ÁREA RESPONSABLE Y ROLES
+
+El área de Operaciones y Calidad es la responsable del proceso en su totalidad. El Ejecutivo de Atención recibe la solicitud, verifica la identidad del cliente y registra el folio. El Analista de Aclaraciones realiza la investigación interna, gestiona el contacto con adquirentes y emite la resolución. El Supervisor de Operaciones revisa y autoriza las resoluciones que impliquen devoluciones superiores a diez mil pesos o que correspondan a casos con más de noventa días de antigüedad. El área de Fraudes interviene cuando la investigación revela indicios de operación fraudulenta organizada, coordinando con el área de Seguridad Corporativa y, en su caso, con autoridades competentes.
+
+
+CANALES DE ATENCIÓN
+
+El cliente puede presentar su aclaración en sucursal bancaria presentándose con identificación oficial y solicitando atención con un ejecutivo de servicios. A través de banca en línea, el cliente accede a la sección Mis Aclaraciones dentro de su cuenta, completa el formulario de disputa y adjunta los documentos digitalizados. Mediante la aplicación móvil Banorte, la opción está disponible en el menú Movimientos seleccionando la operación en disputa. El centro de atención telefónica Banorte Tel atiende aclaraciones las veinticuatro horas los trescientos sesenta y cinco días del año, con posibilidad de escalar a un ejecutivo especializado en horario hábil.
+
+
+EXCEPCIONES Y CASOS ESPECIALES
+
+Cuando el cliente presenta múltiples aclaraciones sobre el mismo comercio o en un período corto, el expediente se turna al área de Fraudes para análisis de patrón de comportamiento. En casos de fraude masivo que afecte a múltiples clientes del mismo comercio o esquema, el área de Operaciones coordina una resolución grupal con el adquirente, aplicando las devoluciones de forma simultánea. Si el cliente no aporta los documentos requeridos en un plazo de diez días hábiles desde la solicitud, la aclaración se suspende con notificación al cliente y puede reactivarse dentro de los siguientes treinta días hábiles. Los cargos por servicios de domiciliación requieren que el cliente primero cancele la domiciliación con el emisor antes de proceder con la aclaración ante Banorte.
+
+
+DISPOSICIONES FINALES
+
+El presente documento entra en vigencia a partir del primero de enero de 2026 y deroga cualquier versión anterior del proceso de atención de aclaraciones. Su revisión está programada con periodicidad anual o de forma extraordinaria cuando cambien las disposiciones regulatorias aplicables. Cualquier modificación debe ser aprobada por la Dirección de Operaciones y Calidad y comunicada a todas las áreas involucradas con un mínimo de quince días hábiles de anticipación a su entrada en vigor. Los casos en proceso al momento de la entrada en vigor de este documento se rigen por la versión anterior hasta su cierre.
