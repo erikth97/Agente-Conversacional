@@ -2,9 +2,12 @@
 
 Topología:
   START → orchestrator_node
-    intent='operativo'    → specialist_node → END
-    intent='fuera_dominio'→ END  (respuesta fija del orquestador)
-    intent='saludo'       → END  (respuesta directa del orquestador)
+    intent='operativo'    → specialist_node → memory_node → END
+    intent='fuera_dominio'→ memory_node → END
+    intent='saludo'       → memory_node → END
+
+memory_node siempre es el último nodo antes de END, garantizando que la
+memoria persiste independientemente de la capa de transporte (FastAPI o tests).
 
 El grafo compilado se expone como `agent_graph` para su uso en FastAPI.
 """
@@ -13,6 +16,7 @@ import logging
 
 from langgraph.graph import END, START, StateGraph
 
+from app.graph.memory_node import memory_node
 from app.graph.orchestrator_node import orchestrator_node
 from app.graph.specialist_node import specialist_node
 from app.graph.state import AgentState
@@ -23,19 +27,16 @@ logger = logging.getLogger(__name__)
 def _route_from_orchestrator(state: AgentState) -> str:
     """Determina el siguiente nodo según el intent clasificado por el orquestador.
 
-    Args:
-        state: Estado actual con el campo 'intent' ya seteado.
-
     Returns:
-        Nombre del siguiente nodo ('specialist') o END.
+        'specialist' para intent operativo, 'memory' para el resto.
     """
     intent = state["intent"]
     if intent == "operativo":
         logger.info("Router: intent='operativo' → specialist_node")
         return "specialist"
 
-    logger.info(f"Router: intent='{intent}' → END (orchestrator handles directly)")
-    return END
+    logger.info(f"Router: intent='{intent}' → memory_node (orchestrator handled directly)")
+    return "memory"
 
 
 def _build_graph() -> StateGraph:
@@ -45,6 +46,7 @@ def _build_graph() -> StateGraph:
     # ─── Nodos ────────────────────────────────────────────────────────────────
     builder.add_node("orchestrator", orchestrator_node)
     builder.add_node("specialist", specialist_node)
+    builder.add_node("memory", memory_node)
 
     # ─── Edges ────────────────────────────────────────────────────────────────
     builder.add_edge(START, "orchestrator")
@@ -54,11 +56,13 @@ def _build_graph() -> StateGraph:
         _route_from_orchestrator,
         {
             "specialist": "specialist",
-            END: END,
+            "memory": "memory",
         },
     )
 
-    builder.add_edge("specialist", END)
+    # Ambos caminos convergen en memory antes de END
+    builder.add_edge("specialist", "memory")
+    builder.add_edge("memory", END)
 
     return builder.compile()
 

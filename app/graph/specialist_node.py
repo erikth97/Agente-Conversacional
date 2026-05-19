@@ -322,14 +322,17 @@ def specialist_node(state: AgentState) -> dict:
     elif query_type == "PROCEDIMIENTO":
         # RAG primero: los documentos tienen el detalle de la política.
         logger.info("Specialist routing: PROCEDIMIENTO → RAG first, then SQL complement")
-        messages, last_response, rag_sources, rag_called, _ = _run_tool_loop(
+        messages, primary_response, rag_sources, rag_called, _ = _run_tool_loop(
             messages, [search_knowledge_base], max_iter=2
         )
-        # Segunda pasada: SQL disponible para que el LLM complemente si necesita
-        # datos estructurados (área, tiempo, canal) sin forzar la llamada.
-        messages, last_response, _, _, sql_called = _run_tool_loop(
+        # Segunda pasada: SQL disponible para complementar datos estructurados.
+        # Si el LLM no llama SQL (closing remark sin tool_calls), se descarta
+        # ese response y se conserva primary_response con su cita de fuente.
+        messages, complement_response, _, _, sql_called = _run_tool_loop(
             messages, [query_process_database], max_iter=2
         )
+        # Solo usar la respuesta del segundo loop si SQL fue realmente invocado.
+        last_response = complement_response if sql_called else primary_response
 
     else:  # MIXTA
         # Ambas tools disponibles. El LLM decide el orden según el contexto.
