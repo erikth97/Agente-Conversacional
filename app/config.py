@@ -23,6 +23,9 @@ RAG_CHUNK_OVERLAP: int = int(os.getenv("RAG_CHUNK_OVERLAP", "100"))
 RAG_EMBEDDING_DIM: int = int(os.getenv("RAG_EMBEDDING_DIM", "1536"))
 RAG_TOP_K: int = int(os.getenv("RAG_TOP_K", "4"))
 RAG_SEARCH_STRATEGY: str = os.getenv("RAG_SEARCH_STRATEGY", "cosine")
+# Score mínimo aceptable para usar un chunk en la respuesta.
+# Chunks con score < RAG_MIN_SCORE se descartan — el agente no inventa información.
+RAG_MIN_SCORE: float = float(os.getenv("RAG_MIN_SCORE", "0.70"))
 
 # ─── ChromaDB ────────────────────────────────────────────────────────────────
 CHROMA_PATH: str = os.getenv("CHROMA_PATH", "./chroma_db")
