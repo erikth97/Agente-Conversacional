@@ -76,7 +76,7 @@ obligatorio para trazabilidad y auditoría interna.
 | Capa | Tecnología | Por qué |
 |------|-----------|---------|
 | Orquestación de agentes | LangGraph + LangChain | Grafo explícito, routing condicional auditable |
-| LLM | gpt-4o-mini (orchestrator: temperature=0 · specialist: temperature=0.1) | Clasificación determinista; respuestas con variación natural en el lenguaje; compatible con Azure OpenAI |
+| LLM | gpt-4o-mini (temperature=0) | Clasificación determinista; compatible con Azure OpenAI |
 | Embeddings | text-embedding-3-small (1536 dims) | Mismo proveedor, calidad alta en español |
 | Vector store | ChromaDB PersistentClient | Sin servidor adicional; funciona en Docker con un volumen |
 | Base de datos | SQLite | Sin servidor, stdlib de Python, portable |

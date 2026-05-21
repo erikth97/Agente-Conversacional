@@ -1,0 +1,16 @@
+version: "3.9"
+
+services:
+  banorte-agent:
+    build: .
+    ports:
+      - "8000:8000"
+    env_file: .env
+    volumes:
+      - chroma_data:/app/chroma_db      # ChromaDB persiste entre reinicios — evita re-ingesta costosa
+      - sqlite_data:/app/app/database   # SQLite persiste conversaciones y procesos operativos
+    restart: unless-stopped
+
+volumes:
+  chroma_data:
+  sqlite_data:
